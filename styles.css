@@ -1,0 +1,25 @@
+/* css styles */
+
+/* Overall page width */
+.page-columns {
+  max-width: 1200px;
+}
+
+/* Main headings */
+h1, h2 {
+  font-weight: 500;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: 600;
+}
