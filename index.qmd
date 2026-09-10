@@ -1,8 +1,18 @@
 ---
-title: "About Me"
+title: ""
 page-layout: full
 toc: false
 ---
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+![](/images/profile.jpg){.profile-img width=80%}
+
+:::
+
+::: {.column width="65%"}
 
 Ken Suzuki was a postdoctoral scholar at Stanford University. He received his PhD in Economics from the University of California, Santa Cruz in June 2024.
 
@@ -13,3 +23,7 @@ You can download my CV [here](/files/pdf/Ken_Suzuki_CV.pdf)
 **Research Fields**: Health Economics, Economics of Education, and Applied Econometrics
 
 Email: ken.suzuki.hit [at mark] gmail.com
+
+:::
+
+:::
