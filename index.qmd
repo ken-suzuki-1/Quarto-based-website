@@ -8,7 +8,7 @@ toc: false
 
 ::: {.column width="35%"}
 
-![](/images/profile.jpg){.profile-img width=80%}
+![](/images/profile.jpg){.profile-img width=30%}
 
 :::
 
