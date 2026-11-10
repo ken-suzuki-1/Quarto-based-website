@@ -18,8 +18,8 @@ website:
       - icon: github
         href: https://github.com/ken-suzuki-1
 
-  page-footer:
-    center: "© 2026 Ken Suzuki"
+  # page-footer:
+  #   center: "© 2026 Ken Suzuki"
 
 freeze: true
 
@@ -30,3 +30,4 @@ format:
       -brand
     css: styles.css
     toc: true
+    page-layout: full

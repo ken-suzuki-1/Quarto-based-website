@@ -23,3 +23,10 @@ a:hover {
 .navbar-brand {
   font-weight: 600;
 }
+
+.profile-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
